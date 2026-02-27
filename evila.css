@@ -2,6 +2,62 @@ header {
     background-color: rgb(229, 243, 239) !important;
 }
 
-footer {
+footer, footer .header-footer-background {
   background-color: rgb(148, 192, 133) !important;
+}
+
+.header-actions .btn-action{
+  background-color:rgb(42, 110, 84);
+  color:white;
+  height: 54px;
+  min-width: 200px;
+  border-radius: 999px;
+  margin:0 !important;
+}
+.btn-primary{
+  background-color:rgb(42, 110, 84);
+  color:white;
+  height: 54px;
+  min-width: 200px;
+  border-radius: 999px;
+}
+
+.footer-small-text{
+  color: black !important;
+}
+body{
+  background-color: rgb(250, 255, 247);
+}
+h1,h3{
+  color: rgb(42, 110, 84) !important
+}
+
+main a{
+
+  color:black;
+}
+
+.datepicker-view .days .day{
+
+  border-color:  rgb(42, 110, 84) !important;
+
+}
+.datepicker-view .days .selected{
+  color:  rgb(42, 110, 84) !important;
+
+}
+
+.datepicker-picker{
+  border-radius: 8px;          /* Soft corners */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* subtle, modern shadow */
+  padding-left: 15px; 
+  padding-right:15px;   
+}
+
+.logo img{
+   mix-blend-mode: multiply;
+}
+
+.footer-logo{
+  filter: brightness(0) invert(1);
 }
