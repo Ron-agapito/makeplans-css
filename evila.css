@@ -7,7 +7,7 @@ footer, footer .header-footer-background {
 }
 
 .header-actions .btn-action{
-  background-color:rgb(42, 110, 84);
+  background-color:rgb(42, 110, 84) !important;
   color:white;
   height: 54px;
   min-width: 200px;
