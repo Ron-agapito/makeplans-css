@@ -15,11 +15,11 @@ footer, footer .header-footer-background {
   margin:0 !important;
 }
 .btn-primary{
-  background-color:rgb(42, 110, 84);
+  background-color:rgb(42, 110, 84) !important;
   color:white;
   height: 54px;
   min-width: 200px;
-  border-radius: 999px;
+  border-radius: 999px !important;
 }
 
 #selected_service .btn-primary{
